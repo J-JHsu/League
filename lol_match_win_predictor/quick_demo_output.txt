@@ -1,0 +1,31 @@
+  LEAGUE OF LEGENDS WIN PREDICTOR DEMO - Logistic Regression MODEL
+
+--- Blue Team Advantage ---
+Key stats:
+  golddiffat25: 2500
+  xpdiffat25: 1800
+  teamkills: 10
+  teamdeaths: 5
+Blue Team Win Probability: 87.35%
+Prediction: Blue win
+Confidence: 87.35%
+
+--- Even Game ---
+Key stats:
+  golddiffat25: 200
+  xpdiffat25: -150
+  teamkills: 6
+  teamdeaths: 6
+Blue Team Win Probability: 52.22%
+Prediction: Blue win
+Confidence: 52.22%
+
+--- Red Team Advantage ---
+Key stats:
+  golddiffat25: -2800
+  xpdiffat25: -2000
+  teamkills: 3
+  teamdeaths: 9
+Blue Team Win Probability: 13.18%
+Prediction: Red win
+Confidence: 86.82%
